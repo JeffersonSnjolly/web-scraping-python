@@ -8,3 +8,4 @@ Amazenado titulos e stock de livros
 <img width="1632" height="995" alt="print02" src="https://github.com/user-attachments/assets/4fa95d48-9991-45b2-ba03-5ff53634f071" />
 
 ## Salvamos duas listas com titulos e quantidades e salvamos em um dataframe.
+<img width="1632" height="995" alt="print03" src="https://github.com/user-attachments/assets/b8f78a1d-f95e-4849-8ea5-e3031aa11946" />
